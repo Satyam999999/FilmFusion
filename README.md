@@ -1,4 +1,4 @@
-Film Fusion
+iCinema
 
 A full-stack MERN website for movie theaters that allows users to browse for films and filter them by available categories and ratings, as well as enables administrators to add new films to the list.
 
