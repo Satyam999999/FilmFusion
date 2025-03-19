@@ -1,9 +1,6 @@
-#ShowTime
+Film Fusion
 
 A full-stack MERN website for movie theaters that allows users to browse for films and filter them by available categories and ratings, as well as enables administrators to add new films to the list.
-
-<h2>Installation</h2>
-Use the package manager [npm](https://www.npmjs.com/) to install iCinema.
 
 <h2> Built with  </h2>
 <ul>
